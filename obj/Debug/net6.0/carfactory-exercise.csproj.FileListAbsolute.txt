@@ -1,0 +1,15 @@
+C:\Bootcamp\carfactory-exercise\bin\Debug\net6.0\carfactory-exercise.exe
+C:\Bootcamp\carfactory-exercise\bin\Debug\net6.0\carfactory-exercise.deps.json
+C:\Bootcamp\carfactory-exercise\bin\Debug\net6.0\carfactory-exercise.runtimeconfig.json
+C:\Bootcamp\carfactory-exercise\bin\Debug\net6.0\carfactory-exercise.dll
+C:\Bootcamp\carfactory-exercise\bin\Debug\net6.0\carfactory-exercise.pdb
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.csproj.AssemblyReference.cache
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.AssemblyInfoInputs.cache
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.AssemblyInfo.cs
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.csproj.CoreCompileInputs.cache
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.dll
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\refint\carfactory-exercise.dll
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.pdb
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\carfactory-exercise.genruntimeconfig.cache
+C:\Bootcamp\carfactory-exercise\obj\Debug\net6.0\ref\carfactory-exercise.dll
